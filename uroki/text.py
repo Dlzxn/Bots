@@ -1,145 +1,156 @@
 
 main_text = """
-Привет! 👋
+Hello! 👋  
 
-Многие писали мне в личных сообщениях и задавали вопросы, и я решил сделать бесплатный мини-курс для вас.🙌
+Many people have messaged me with questions, so I decided to create a free mini-course for you. 🎉 
 
-Эту информацию можно найти бесплатно на YouTube, поэтому я не стал ставить ценник на эти видео. Я просто структурно собрал все в одном месте и записал эти материалы)😉
+This information is freely available on YouTube, so I didn’t put a price on these videos. I simply structured everything in one place and recorded these materials for you. 👍  
 
-В этом боте вы получите 5 обучающих видео и глоссарий к каждому, но главное и единственое условие - это просто быть подписанным и все. Ничего сложного
+In this bot, you’ll get 5 training videos and a glossary for each one. The only condition is to be subscribed—nothing complicated.  
 
-Советую вам пройти его, не откладывая на потом и перейти к торговле. Вы сами видите на канале, какие результаты мы делаем. Если нет, то ниже ссылка на канал.
+I recommend going through it without delaying and getting into trading. You can see the results we achieve on the channel. If not, check out the link below.  
 
-Всем удачи, приятного просмотра!🎯
+Good luck and enjoy watching!   
 
-И еще раз - ничего сложного нет, у вас все получится)
+And once again—there’s nothing difficult here, you got this!  
 
-P.S. Не фин. совет! Делайте собственный ресерч. Все видео предоставлены в обучающих целях. 
+P.S. This is not financial advice! Do your own research. All videos are provided for educational purposes.  
 NFA / DYOR
 """
 
 
 lecture_1 = """
- https://youtu.be/VmHNKukTABE
-🎯 Первый урок: Как Сделать Свою Первую $1000?
+ https://youtu.be/xPBjjAQ7N58
 
-Привет еще раз, ловите первое видео. Это больше краткое вступление, здесь вы поймете в каком направлении мы будем идти и какие знания вы получите из этих серий бесплатных уроков. 
+🚀 Lesson 1: How to Make Your First $1000?  
 
-Ниже прикрепляю глоссарий для тех, кто не знаком с озвученными терминами. Приятного просмотра!
+Hey again! Here’s the first video. This is more of a brief introduction where you’ll understand the direction we’re heading in and what knowledge you’ll gain from this free lesson series.  
 
-📋 Глоссарий к уроку:
+Below, I’ve attached a glossary for those unfamiliar with the terms mentioned. Enjoy watching!  
 
-Вот определения для этих терминов:
+📋 Glossary for the Lesson:  
 
-🟢 Токен — это криптографический актив, который представляет собой некую ценность или право внутри определённой экосистемы, сети или проекта. 
+Here are the definitions for these terms:  
 
-🟢 Децентрализованные биржи (DEX) — это платформы для обмена криптовалют, которые работают без центрального органа или посредников. 
+🔶 Token – A cryptographic asset that represents a certain value or right within a specific ecosystem, network, or project.  
 
-🟢 Централизованные биржи (CEX) — это криптовалютные платформы, которые управляются одной компанией или организацией, которая обеспечивает централизованный контроль за процессом торговли. Примеры: Binance, Kraken, Coinbase.
+🔶 Decentralized Exchanges (DEX) – Platforms for cryptocurrency trading that operate without a central authority or intermediaries.  
 
-🟢 Верификация — это процесс проверки личности пользователя с целью предотвращения мошенничества и соблюдения нормативных требований, таких как правила против отмывания денег (AML) и соблюдения политики "Знай своего клиента" (KYC).
+🔶 Centralized Exchanges (CEX) – Cryptocurrency platforms managed by a single company or organization, which maintains centralized control over the trading process. Examples: Binance, Kraken, Coinbase.  
+
+🔶 Verification – The process of confirming a user's identity to prevent fraud and comply with regulatory requirements, such as Anti-Money Laundering (AML) rules and Know Your Customer (KYC) policies.
 """
 
 
 lecture_2 = """
-https://youtu.be/i9XHZNV-g6c
-🎯 Второй урок: Система из 5 супер-простых действий, чтобы выйти на первые $1000.
+https://youtu.be/TCdAz9lUyqg
 
-Вы молодцы! Второе видео посвящено системе поиска проектов в целом - здесь вы узнаете как мы ищем и находим перспективные монеты. Смотрите видео и делайте для себя конспекты. Вы уже близки к своим первым заработкам!
+🚀 Lesson 2: A System of 5 Super-Simple Actions to Reach Your First $1000  
 
-📋 Глоссарий к уроку: 
+Great job! The second video is dedicated to the system for finding projects in general – here, you’ll learn how we search for and identify promising coins. Watch the video and take notes for yourself. You're already close to making your first earnings!  
 
-Конечно, вот разъяснения для этих терминов:
+📋 Glossary for the Lesson:  
 
-🟢 Нарративы — ключевые истории или идеи, которые формируют общественное восприятие и тренды. Нарративы могут включать в себя представление о потенциальной ценности криптовалюты, идеях её использования или философии, стоящей за проектом. 
+Here are explanations for these terms:  
 
-🟢 DexScreener — это инструмент для анализа данных, ориентированный на децентрализованные биржи (DEX). Он предоставляет информацию о текущих ценах, объемах торгов, графиках и других метках криптовалют, торгующихся на децентрализованных платформах, таких как Uniswap, PancakeSwap и другие. 
+🔶 Narratives – Key stories or ideas that shape public perception and trends. Narratives can include the perceived potential value of a cryptocurrency, its use cases, or the philosophy behind the project.  
 
-🟢 Токеномика — это концепция экономики токенов внутри конкретного проекта или блокчейн-экосистемы. Токеномика охватывает такие аспекты, как распределение токенов (кто и сколько получает), роль токенов в экосистеме (например, для голосования, вознаграждений или доступа), механизмы инфляции и дефляции, и т. д. 
+🔶 DexScreener – A data analysis tool focused on decentralized exchanges (DEX). It provides information on current prices, trading volumes, charts, and other metrics for cryptocurrencies traded on decentralized platforms like Uniswap, PancakeSwap, and others.  
 
-🟢 Памп — это резкое повышение цены актива, которое часто связано с массовым интересом и спекуляциями. Памп может быть результатом манипуляций, например, скоординированных действий группы людей, которые покупают токен, что вызывает ажиотаж и дальнейший рост цены.
+🔶 Tokenomics – The concept of a token’s economy within a specific project or blockchain ecosystem. Tokenomics covers aspects such as token distribution (who gets how much), the role of tokens in the ecosystem (e.g., for voting, rewards, or access), inflation and deflation mechanisms, etc.  
 
-🟢 Тикер — это сокращённое название или символ криптовалюты (например, BTC для биткойна или ETH для эфира). 
+🔶 Pump – A sharp increase in an asset’s price, often driven by mass interest and speculation. A pump can result from manipulations, such as coordinated actions by a group of people who buy a token, creating hype and further price growth.  
 
-🟢 Стоп-лосс — это ордер, который автоматически продаёт актив, если его цена падает до заданного уровня. Это механизм защиты от потерь: трейдер устанавливает стоп-лосс, чтобы ограничить убытки в случае, если рынок двигается против его позиции.
+🔶 Ticker – The abbreviated name or symbol of a cryptocurrency (e.g., BTC for Bitcoin or ETH for Ethereum).  
 
-🟢 Тейк-профит — это ордер, который автоматически продаёт актив, если его цена достигает заранее установленного уровня прибыли. Этот ордер помогает зафиксировать прибыль, не требуя постоянного мониторинга рынка.
+🔶 Stop-loss – An order that automatically sells an asset if its price drops to a specified level. This is a risk management tool: a trader sets a stop-loss to limit losses in case the market moves against their position.  
+
+🔶 Take-profit – An order that automatically sells an asset if its price reaches a predetermined profit level. This order helps lock in profits without requiring constant market monitoring.
 
 """
-
 
 lecture_3 = """
- https://youtu.be/ZG5uLdeBjmY
- 🎯 Третий урок: Как использовать бесплатный канал сигналов?
+https://youtu.be/fTm40p3GI4g
+🚀 Lesson 3: How to Use the Free Signal Channel?  
 
-Вы уже прошли пол пути! В этом видео вы узнаете как использовать самое ценное звено нашей системы - мой канал сигналов. Посмотрите видео и у вас сразу исчезнут очень много вопросов касательно канала. Приятного просмотра!
+You've already made it halfway! In this video, you'll learn how to use the most valuable part of our system—my signal channel. Watch the video, and many of your questions about the channel will disappear immediately. Enjoy watching!  
 
-📋 Глоссарий к уроку:
+📋 Glossary for the Lesson:  
 
-Вот определения для этих терминов:
+Here are the definitions of the key terms:  
 
-🟢 Адрес контракта токена — это уникальный идентификатор, который представляет смарт-контракт токена в блокчейне. Каждый токен, будь то ERC-20 (на базе Ethereum) или BEP-20 (на Binance Smart Chain), имеет свой уникальный адрес контракта. 
+🔶 Token Contract Address – A unique identifier that represents a token's smart contract on the blockchain. Every token, whether ERC-20 (on Ethereum) or BEP-20 (on Binance Smart Chain), has its own unique contract address.  
 
-🟢 Скам — это термин, который обозначает мошенничество в криптовалютной сфере. Проекты, которые являются скамом, могут обманывать инвесторов с целью заработать на их вложениях, при этом не предоставляя реальной ценности. 
+🔶 Scam – A term used to describe fraud in the cryptocurrency space. Scam projects deceive investors to profit from their funds without providing real value.  
 
-🟢 Маркет-кап (Market Cap) — это рыночная капитализация криптовалюты, которая рассчитывается как произведение текущей цены токена на общее количество токенов в обращении. 
+🔶 Market Cap (Market Capitalization) – The total market value of a cryptocurrency, calculated by multiplying the current token price by the total number of tokens in circulation.  
 
-🟢 DYOR (Do Your Own Research) — это призыв к тому, чтобы каждый инвестор самостоятельно проводил исследование перед тем, как вкладывать деньги в какой-либо проект. 
+🔶 DYOR (Do Your Own Research) – A reminder that every investor should independently research a project before investing their money.  
 
-🟢 ATH (All-Time High) — это максимальная цена, которую криптовалюта или актив когда-либо достигал за всё время существования. Например, если цена биткойна когда-то достигала $69,000, то это его ATH.
-
+🔶 ATH (All-Time High) – The highest price a cryptocurrency or asset has ever reached in its history. For example, if Bitcoin once hit $69,000, that would be its ATH.
 """
 
+
+
+
 lecture_4 = """
- https://youtu.be/2aLuO4uE7PY
-🎯 Четвертый урок: BullX - бот и сайт с низкими комиссиями и удобным функционалом
+  https://youtu.be/ULWN-2xiR-s
+ 
+ 🚀 Lesson 4: BullX – A Bot and Website with Low Fees and Convenient Features  
 
-Это предпоследнее и самое интересное видео нашей серии. Вы почти у цели! Научитесь пользоваться ботом BullX и сайтом для торговли. В этом нет ничего сложного, посмотрите это видео!
+This is the second-to-last and most exciting video in our series. You’re almost there! Learn how to use the BullX bot and the trading website. It’s simple—just watch this video!  
 
-📋 Глоссарий к уроку:
+📋 Glossary for the Lesson:  
 
-Вот объяснения для этих терминов:
+Here are the explanations for these terms:  
 
-🟢 Ликвидность — это способность актива или рынка легко конвертироваться в деньги или другие активы без значительных колебаний цены. На высоколиквидном рынке активы можно быстро купить или продать по близким к рыночным ценам. 
+🔶 Liquidity – The ability of an asset or market to be quickly converted into cash or other assets without significant price fluctuations. In a highly liquid market, assets can be bought or sold quickly at prices close to the market rate.  
 
-🟢 P2P (Peer-to-Peer) — это система, при которой пользователи могут напрямую обмениваться криптовалютами или другими активами друг с другом без участия посредников (например, бирж). 
+🔶 P2P (Peer-to-Peer) – A system where users can directly exchange cryptocurrencies or other assets with each other without intermediaries (such as exchanges).  
 
-🟢 Solana — это блокчейн-платформа, предназначенная для высокоскоростных и дешевых транзакций. Solana поддерживает смарт-контракты, и её токен называется SOL.
+🔶 Solana – A blockchain platform designed for high-speed, low-cost transactions. Solana supports smart contracts, and its native token is called SOL.  
 
-🟢 Маркет-ордер — это ордер на покупку или продажу актива по текущей рыночной цене. Это означает, что ордер будет выполнен немедленно, но цена может немного варьироваться в зависимости от ликвидности на рынке. 
+🔶 Market Order – An order to buy or sell an asset at the current market price. This means the order will be executed immediately, but the price may slightly vary depending on market liquidity.  
 
-🟢 Лимит-ордер — это ордер на покупку или продажу актива по заранее установленной цене или лучше. Например, если вы хотите купить токен по цене $50, вы ставите лимит-ордер на $50.
-
+🔶 Limit Order – An order to buy or sell an asset at a predetermined price or better. For example, if you want to buy a token at $50, you place a limit order at $50.
 """
 
 
 
 lecture_5 = """
- https://youtu.be/Khbat61v69M
- 🎯 Пятый урок: Как не потерять заработанные деньги. Риск-менеджмент.
+ https://youtu.be/prX0qtZjyxU
+🚀 Lesson 5: How Not to Lose Earned Money – Risk Management  
 
-Соблюдайте риск-менеджмент. Это крайне важно, чтобы не потерять заработанные деньги. Многие люди теряют свои деньги из-за базовых ошибок. Здесь я назвал эти самые ошибки - не повторяйте их. 
+Follow risk management rules. This is extremely important to avoid losing your hard-earned money. Many people lose their funds due to basic mistakes. In this video, I highlight these mistakes—don’t repeat them!  
 
-📋 Глоссарий к уроку:
+📋 Glossary for the Lesson:  
 
-🟢  Журнал сделок — это запись всех операций, совершённых трейдером или инвестором. В журнале фиксируются данные о покупке и продаже активов, такие как дата и время, цена, количество, комиссии и другие важные параметры.
+🔶 Trade Journal – A record of all transactions made by a trader or investor. It logs details such as the date and time of trades, price, quantity, fees, and other essential parameters.  
 
-🟢  Точки входа — это моменты, когда трейдер или инвестор решает войти в рынок, то есть купить актив. Точка входа обычно определяется с помощью анализа графиков, технических индикаторов, новостей или других факторов, которые могут сигнализировать о выгодном моменте для покупки.
+🔶 Entry Points – Moments when a trader or investor decides to enter the market by purchasing an asset. Entry points are usually determined through chart analysis, technical indicators, news, or other factors signaling a good buying opportunity.  
 
-🟢  Dip — это термин, который обозначает временное снижение цены актива, особенно если это падение кажется краткосрочным.
-
+🔶 Dip – A term referring to a temporary drop in an asset's price, especially when the decline appears to be short-term.
 
 """
 
 
 end_1 ="""
-Итак, вы завершили уроки! Можете похвалить себя)
 
-Я буду здесь выкладывать также гайды на других ботов и другие интересные обучающие материалы. Оставайтесь, чтобы не упускать их!
+Congratulations, you’ve completed the lessons! 🎉  
 
-Переходите по ссылкам, смотрите мои видео на канале, а также начните торговать - по малому, но постепенно и у вас все получится!
+You can be proud of yourself! 🙌  
+
+I’ll continue sharing guides on other bots and more interesting educational materials here. Stay tuned so you don’t miss out!  
+
+Check out the links, watch my videos on the channel, and start trading—start small, but be consistent, and you’ll succeed! 🚀
+
+
 """
 
 end_2 = """
-⚠️ Не забудьте оставить отзыв о курсе, плиз в личных сообщениях. Это очень поможет мне понять насколько вам помог курс и как можно дальше работать над развитием!
+⚠️ Don't forget to leave feedback on the course, please, in private messages!  
+
+Your feedback is incredibly valuable—it helps me understand how useful the course was for you and how I can improve it further. Looking forward to your thoughts! 🚀🙏
 """
+
+

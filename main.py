@@ -20,16 +20,16 @@ dp =  Dispatcher()
 dp.include_router(admin_rout)
 
 
-button1 = InlineKeyboardButton(text="📢 Бесплатные сигналы", url="https://t.me/@crypto_bulat")  # Укажи реальную ссылку
-button2 = InlineKeyboardButton(text="📞 Мой YouTube", url="https://www.youtube.com/@cryptobulat")  # Укажи свой канал
-button3 = InlineKeyboardButton(text="🔙 Я торгую здесь", url="https://t.me/crypto_bulat/524")  # Укажи ссылку
-button41 = InlineKeyboardButton(text="Начать обучение", callback_data="lesson_1")
-button42 = InlineKeyboardButton(text="Следующий урок", callback_data="lesson_2")
-button43 = InlineKeyboardButton(text="Следующий урок", callback_data="lesson_3")
-button44 = InlineKeyboardButton(text="Следующий урок", callback_data="lesson_4")
-button45 = InlineKeyboardButton(text="Следующий урок", callback_data="lesson_5")
-button46 = InlineKeyboardButton(text="Следующий урок", callback_data="lesson_6")
-button5 = InlineKeyboardButton(text="🏠 В главное меню", callback_data="main_menu")
+button1 = InlineKeyboardButton(text="📢 Free signals", url="https://t.me/@crypto_bulat")  # Укажи реальную ссылку
+button2 = InlineKeyboardButton(text="📞 My YouTube", url="https://www.youtube.com/@cryptobulat")  # Укажи свой канал
+button3 = InlineKeyboardButton(text="🔙 I trade here", url="https://t.me/crypto_bulat/524")  # Укажи ссылку
+button41 = InlineKeyboardButton(text="Start learning", callback_data="lesson_1")
+button42 = InlineKeyboardButton(text="The next lesson", callback_data="lesson_2")
+button43 = InlineKeyboardButton(text="The next lesson", callback_data="lesson_3")
+button44 = InlineKeyboardButton(text="The next lesson", callback_data="lesson_4")
+button45 = InlineKeyboardButton(text="The next lesson", callback_data="lesson_5")
+button46 = InlineKeyboardButton(text="The next lesson", callback_data="lesson_6")
+button5 = InlineKeyboardButton(text="🏠 To the main menu", callback_data="main_menu")
 
 
 main_inline_keyboard = InlineKeyboardMarkup(inline_keyboard=[

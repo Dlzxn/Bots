@@ -15,11 +15,11 @@ from db.CRUD import add_user, get_all_users
 
 from uroki.text import main_text, lecture_1, lecture_2, lecture_3, lecture_4, lecture_5, end_1, end_2
 
-button1 = InlineKeyboardButton(text="📢 Бесплатные сигналы", url="https://t.me/@crypto_bulat")  # Укажи реальную ссылку
-button2 = InlineKeyboardButton(text="📞 Мой YouTube", url="https://www.youtube.com/@cryptobulat")  # Укажи свой канал
-button3 = InlineKeyboardButton(text="🔙 Я торгую здесь", url="https://t.me/crypto_bulat/524")  # Укажи ссылку
-button41 = InlineKeyboardButton(text="Начать обучение", callback_data="lesson_1")
-button5 = InlineKeyboardButton(text="🏠 В главное меню", callback_data="main_menu")
+button1 = InlineKeyboardButton(text="📢 Free Signals", url="https://t.me/@crypto_bulat")  # Укажи реальную ссылку
+button2 = InlineKeyboardButton(text="📞 My YouTube", url="https://www.youtube.com/@cryptobulat")  # Укажи свой канал
+button3 = InlineKeyboardButton(text="🔙 I trade here", url="https://t.me/crypto_bulat/524")  # Укажи ссылку
+button41 = InlineKeyboardButton(text="Start learning", callback_data="lesson_1")
+button5 = InlineKeyboardButton(text="🏠 To the main menu", callback_data="main_menu")
 button6 = InlineKeyboardButton(text="Рассылка", callback_data="pars")
 
 state = []
@@ -35,8 +35,8 @@ main_inline_keyboard = InlineKeyboardMarkup(inline_keyboard=[
 admin_rout = Router()
 
 
-button41 = InlineKeyboardButton(text="Статистика", callback_data="stat")
-button42 = InlineKeyboardButton(text="Пользователи", callback_data="users")
+button41 = InlineKeyboardButton(text="Statistic", callback_data="stat")
+button42 = InlineKeyboardButton(text="Users", callback_data="users")
 
 main_keyboard = InlineKeyboardMarkup(inline_keyboard=[
     [button41, button42],
@@ -48,15 +48,15 @@ USERS_TRUE:list = ["illgettomorow", "limonchaser"]
 @admin_rout.message(Command("admin"))
 async def start(message: types.Message):
     if message.from_user.username in USERS_TRUE:
-        await message.answer(text = "Вы админ", reply_markup=main_keyboard)
+        await message.answer(text = "You are admin", reply_markup=main_keyboard)
     else:
-        await message.answer(text = "Запрещено")
+        await message.answer(text = "Locked")
 
 
 
 @admin_rout.callback_query(lambda c: c.data == "pars")
 async def pars(callback: CallbackQuery):
-        await callback.answer(text = "Введите сообщение")
+        await callback.answer(text = "")
         global state
         state.append("True")
         await asyncio.sleep(200)
@@ -129,5 +129,8 @@ async def main(message: Message, bot: Bot):
                 all_users = get_all_users()
                 for user in all_users:
                     print(user.split())
-                    await bot.send_message(user.split()[1], text = message.text)
+                    try:
+                        await bot.send_message(user.split()[1], text = message.text)
+                    except Exception as e:
+                        print("[ERROR]", e)
                 state = []
