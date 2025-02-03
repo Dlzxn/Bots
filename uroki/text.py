@@ -1,156 +1,144 @@
 
 main_text = """
-Hello! 👋  
 
-Many people have messaged me with questions, so I decided to create a free mini-course for you. 🎉 
+Hey there! 👋  
 
-This information is freely available on YouTube, so I didn’t put a price on these videos. I simply structured everything in one place and recorded these materials for you. 👍  
+I've received a lot of questions, so I decided to put together a free mini-course just for you. 🙌  
 
-In this bot, you’ll get 5 training videos and a glossary for each one. The only condition is to be subscribed—nothing complicated.  
+Inside this bot, you’ll find five training videos, each with a glossary. The only requirement? Just be subscribed—nothing complicated.  
 
-I recommend going through it without delaying and getting into trading. You can see the results we achieve on the channel. If not, check out the link below.  
+I highly recommend diving in as soon as possible and starting your trading journey. You can check out the results we’ve been achieving on the channel. If you haven’t seen them yet, the link is below.  
 
-Good luck and enjoy watching!   
+Best of luck, and enjoy the lessons! 🎯  
 
-And once again—there’s nothing difficult here, you got this!  
-
-P.S. This is not financial advice! Do your own research. All videos are provided for educational purposes.  
+P.S. This is not financial advice! Always do your own research. These videos are purely educational.  
 NFA / DYOR
 """
 
 
 lecture_1 = """
- https://youtu.be/xPBjjAQ7N58
+https://youtu.be/HDK0htiY02c
+🎯 Lesson 1: How to Earn Your First $1000?  
 
-🚀 Lesson 1: How to Make Your First $1000?  
+Welcome back! Here’s your first video. Think of this as an introduction where you'll get a clear idea of the direction we’re taking and the key insights you’ll gain from this free lesson series.  
 
-Hey again! Here’s the first video. This is more of a brief introduction where you’ll understand the direction we’re heading in and what knowledge you’ll gain from this free lesson series.  
+Below, I’ve included a glossary for those who may not be familiar with some of the terms mentioned. Enjoy the lesson!  
 
-Below, I’ve attached a glossary for those unfamiliar with the terms mentioned. Enjoy watching!  
+📋 Glossary for This Lesson:  
 
-📋 Glossary for the Lesson:  
+🟢 Token – A digital asset that holds value or grants specific rights within a particular blockchain ecosystem, network, or project.  
 
-Here are the definitions for these terms:  
+🟢 Decentralized Exchanges (DEX) – Trading platforms that allow cryptocurrency transactions without the need for a central authority or intermediaries.  
 
-🔶 Token – A cryptographic asset that represents a certain value or right within a specific ecosystem, network, or project.  
+🟢 Centralized Exchanges (CEX) – Cryptocurrency trading platforms controlled by a single organization, ensuring a managed trading environment. Examples include Binance, Kraken, and Coinbase.  
 
-🔶 Decentralized Exchanges (DEX) – Platforms for cryptocurrency trading that operate without a central authority or intermediaries.  
+🟢 Verification – A process used to confirm a user’s identity to prevent fraud and comply with regulations, such as Anti-Money Laundering (AML) laws and Know Your Customer (KYC) requirements.
 
-🔶 Centralized Exchanges (CEX) – Cryptocurrency platforms managed by a single company or organization, which maintains centralized control over the trading process. Examples: Binance, Kraken, Coinbase.  
-
-🔶 Verification – The process of confirming a user's identity to prevent fraud and comply with regulatory requirements, such as Anti-Money Laundering (AML) rules and Know Your Customer (KYC) policies.
 """
 
-
 lecture_2 = """
-https://youtu.be/TCdAz9lUyqg
+https://youtu.be/cC0TIKEXSv4
 
-🚀 Lesson 2: A System of 5 Super-Simple Actions to Reach Your First $1000  
+🎯 Lesson 2: A Simple 5-Step System to Earn Your First $1000  
 
-Great job! The second video is dedicated to the system for finding projects in general – here, you’ll learn how we search for and identify promising coins. Watch the video and take notes for yourself. You're already close to making your first earnings!  
+You're doing great! This second video focuses on the process of finding promising projects. Here, you'll discover how we identify potential coins worth investing in. Watch carefully and take notes—you're already getting closer to your first profits!  
 
-📋 Glossary for the Lesson:  
+📋 Glossary for This Lesson:  
 
-Here are explanations for these terms:  
+🟢 Narratives – Core themes or ideas that influence public perception and trends. Narratives can shape how a cryptocurrency is valued, its potential use cases, or the vision behind a project.  
 
-🔶 Narratives – Key stories or ideas that shape public perception and trends. Narratives can include the perceived potential value of a cryptocurrency, its use cases, or the philosophy behind the project.  
+🟢 DexScreener – A data analysis tool designed for decentralized exchanges (DEX). It provides real-time insights on prices, trading volumes, charts, and other key data for cryptocurrencies traded on platforms like Uniswap and PancakeSwap.  
 
-🔶 DexScreener – A data analysis tool focused on decentralized exchanges (DEX). It provides information on current prices, trading volumes, charts, and other metrics for cryptocurrencies traded on decentralized platforms like Uniswap, PancakeSwap, and others.  
+🟢 Tokenomics – The economic model of a token within a blockchain ecosystem. It includes token distribution (who gets what), the token’s purpose (e.g., governance, rewards, access), and mechanisms like inflation or deflation.  
 
-🔶 Tokenomics – The concept of a token’s economy within a specific project or blockchain ecosystem. Tokenomics covers aspects such as token distribution (who gets how much), the role of tokens in the ecosystem (e.g., for voting, rewards, or access), inflation and deflation mechanisms, etc.  
+🟢 Pump – A sudden spike in an asset’s price, often fueled by speculation and mass buying. Pumps can sometimes be artificially driven by coordinated efforts to create hype and push prices up.  
 
-🔶 Pump – A sharp increase in an asset’s price, often driven by mass interest and speculation. A pump can result from manipulations, such as coordinated actions by a group of people who buy a token, creating hype and further price growth.  
+🟢 Ticker – The short symbol representing a cryptocurrency (e.g., BTC for Bitcoin, ETH for Ethereum).  
 
-🔶 Ticker – The abbreviated name or symbol of a cryptocurrency (e.g., BTC for Bitcoin or ETH for Ethereum).  
+🟢 Stop-loss – A predefined sell order that triggers automatically when an asset’s price drops to a set level. This helps traders limit potential losses if the market moves against them.  
 
-🔶 Stop-loss – An order that automatically sells an asset if its price drops to a specified level. This is a risk management tool: a trader sets a stop-loss to limit losses in case the market moves against their position.  
-
-🔶 Take-profit – An order that automatically sells an asset if its price reaches a predetermined profit level. This order helps lock in profits without requiring constant market monitoring.
-
+🟢 Take-profit – An automated sell order that executes when an asset’s price reaches a specified profit level, allowing traders to lock in gains without constant market monitoring.
 """
 
 lecture_3 = """
-https://youtu.be/fTm40p3GI4g
-🚀 Lesson 3: How to Use the Free Signal Channel?  
+https://youtu.be/gLcs0YOI41c
+🎯 Lesson 3: How to Make the Most of the Free Signal Channel?  
 
-You've already made it halfway! In this video, you'll learn how to use the most valuable part of our system—my signal channel. Watch the video, and many of your questions about the channel will disappear immediately. Enjoy watching!  
+You're already halfway through the course! In this lesson, you’ll learn how to use the most crucial part of our system—my signal channel. Watch the video, and many of your questions about how it works will be answered instantly. Enjoy!  
 
-📋 Glossary for the Lesson:  
+📋 Glossary for This Lesson:  
 
-Here are the definitions of the key terms:  
+🟢 Token Contract Address – A unique identifier assigned to a token’s smart contract on the blockchain. Every token, whether ERC-20 (Ethereum) or BEP-20 (Binance Smart Chain), has its own distinct contract address.  
 
-🔶 Token Contract Address – A unique identifier that represents a token's smart contract on the blockchain. Every token, whether ERC-20 (on Ethereum) or BEP-20 (on Binance Smart Chain), has its own unique contract address.  
+🟢 Scam – A fraudulent scheme in the crypto space where projects mislead investors to take their funds without delivering real value.  
 
-🔶 Scam – A term used to describe fraud in the cryptocurrency space. Scam projects deceive investors to profit from their funds without providing real value.  
+🟢 Market Cap (Market Capitalization) – The total valuation of a cryptocurrency, calculated by multiplying its current price by the total number of tokens in circulation.  
 
-🔶 Market Cap (Market Capitalization) – The total market value of a cryptocurrency, calculated by multiplying the current token price by the total number of tokens in circulation.  
+🟢 DYOR (Do Your Own Research) – A crucial principle encouraging investors to conduct independent research before investing in any project.  
 
-🔶 DYOR (Do Your Own Research) – A reminder that every investor should independently research a project before investing their money.  
+🟢 ATH (All-Time High) – The highest price an asset or cryptocurrency has ever reached. For instance, Bitcoin’s ATH was $69,000.
 
-🔶 ATH (All-Time High) – The highest price a cryptocurrency or asset has ever reached in its history. For example, if Bitcoin once hit $69,000, that would be its ATH.
 """
-
 
 
 
 lecture_4 = """
-  https://youtu.be/ULWN-2xiR-s
- 
- 🚀 Lesson 4: BullX – A Bot and Website with Low Fees and Convenient Features  
+https://youtu.be/QtOUe4e-R64
 
-This is the second-to-last and most exciting video in our series. You’re almost there! Learn how to use the BullX bot and the trading website. It’s simple—just watch this video!  
+🎯 Lesson 4: BullX – A Bot and Platform with Low Fees and Powerful Features  
 
-📋 Glossary for the Lesson:  
+You're almost at the finish line! This is one of the most exciting lessons in our series. Here, you'll learn how to use the BullX bot and trading platform efficiently. The process is straightforward—just follow along with the video!  
 
-Here are the explanations for these terms:  
+📋 Glossary for This Lesson:  
 
-🔶 Liquidity – The ability of an asset or market to be quickly converted into cash or other assets without significant price fluctuations. In a highly liquid market, assets can be bought or sold quickly at prices close to the market rate.  
+🟢 Liquidity – The ease with which an asset can be bought or sold without causing significant price changes. A highly liquid market allows quick transactions at prices close to the market rate.  
 
-🔶 P2P (Peer-to-Peer) – A system where users can directly exchange cryptocurrencies or other assets with each other without intermediaries (such as exchanges).  
+🟢 P2P (Peer-to-Peer) – A decentralized system where users can trade cryptocurrencies or other assets directly with each other, bypassing intermediaries like centralized exchanges.  
 
-🔶 Solana – A blockchain platform designed for high-speed, low-cost transactions. Solana supports smart contracts, and its native token is called SOL.  
+🟢 Solana – A high-performance blockchain known for its fast and cost-effective transactions. It supports smart contracts, and its native token is SOL.  
 
-🔶 Market Order – An order to buy or sell an asset at the current market price. This means the order will be executed immediately, but the price may slightly vary depending on market liquidity.  
+🟢 Market Order – A buy or sell order that executes immediately at the best available market price. While fast, the final execution price may vary slightly due to market liquidity.  
 
-🔶 Limit Order – An order to buy or sell an asset at a predetermined price or better. For example, if you want to buy a token at $50, you place a limit order at $50.
-"""
+🟢 Limit Order – A trade order set at a specific price or better. For example, if you want to buy a token at $50, you place a limit order at $50, and it will only execute when the market reaches your target price.
+ """
 
 
 
 lecture_5 = """
- https://youtu.be/prX0qtZjyxU
-🚀 Lesson 5: How Not to Lose Earned Money – Risk Management  
+https://youtu.be/li5KOMZz-TU
+🎯 Lesson 5: Protecting Your Profits – The Essentials of Risk Management  
 
-Follow risk management rules. This is extremely important to avoid losing your hard-earned money. Many people lose their funds due to basic mistakes. In this video, I highlight these mistakes—don’t repeat them!  
+Managing risk is crucial if you want to keep your hard-earned money safe. Many traders lose funds due to simple, avoidable mistakes. In this lesson, I’ll break down the most common errors—make sure you don’t repeat them!  
 
-📋 Glossary for the Lesson:  
+📋 Glossary for This Lesson:  
 
-🔶 Trade Journal – A record of all transactions made by a trader or investor. It logs details such as the date and time of trades, price, quantity, fees, and other essential parameters.  
+🟢 Trade Journal – A log that tracks all transactions made by a trader or investor. It includes key details such as the date, time, price, trade size, fees, and other important factors.  
 
-🔶 Entry Points – Moments when a trader or investor decides to enter the market by purchasing an asset. Entry points are usually determined through chart analysis, technical indicators, news, or other factors signaling a good buying opportunity.  
+🟢 Entry Points – The optimal moments when a trader or investor decides to buy an asset. These are usually determined by analyzing charts, technical indicators, market news, or other signals that suggest a strong buying opportunity.  
 
-🔶 Dip – A term referring to a temporary drop in an asset's price, especially when the decline appears to be short-term.
+🟢 Dip – A short-term price decline in an asset, often seen as a buying opportunity for traders expecting a rebound.
 
 """
 
 
 end_1 ="""
 
-Congratulations, you’ve completed the lessons! 🎉  
+Well done! You’ve completed the lessons! 🎉  
 
-You can be proud of yourself! 🙌  
+You should be proud of yourself! 🙌  
 
-I’ll continue sharing guides on other bots and more interesting educational materials here. Stay tuned so you don’t miss out!  
+I’ll keep posting guides on other bots and valuable educational materials here. Stay connected so you don’t miss out!  
 
-Check out the links, watch my videos on the channel, and start trading—start small, but be consistent, and you’ll succeed! 🚀
-
+Explore the links, check out my videos, and start trading—begin with small steps, stay consistent, and success will follow! 🚀
 
 """
 
 end_2 = """
-⚠️ Don't forget to leave feedback on the course, please, in private messages!  
 
-Your feedback is incredibly valuable—it helps me understand how useful the course was for you and how I can improve it further. Looking forward to your thoughts! 🚀🙏
+⚠️ Don’t forget to share your feedback on the course in private messages!  
+
+Your opinion is really important—it helps me understand how useful the course was for you and what can be improved. Looking forward to hearing your thoughts! 🚀🙏
+
+
 """
-
 

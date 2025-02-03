@@ -15,9 +15,9 @@ from db.CRUD import add_user, get_all_users
 
 from uroki.text import main_text, lecture_1, lecture_2, lecture_3, lecture_4, lecture_5, end_1, end_2
 
-button1 = InlineKeyboardButton(text="📢 Free Signals", url="https://t.me/@crypto_bulat")  # Укажи реальную ссылку
-button2 = InlineKeyboardButton(text="📞 My YouTube", url="https://www.youtube.com/@cryptobulat")  # Укажи свой канал
-button3 = InlineKeyboardButton(text="🔙 I trade here", url="https://t.me/crypto_bulat/524")  # Укажи ссылку
+button1 = InlineKeyboardButton(text="📢 Free Signals", url="https://t.me/@pushfactory")  # Укажи реальную ссылку
+button2 = InlineKeyboardButton(text="📞 My YouTube", url="https://www.youtube.com/@CarlMinecool")  # Укажи свой канал
+button3 = InlineKeyboardButton(text="🔙 I trade here", url="https://t.me/pushfactory/947")  # Укажи ссылку
 button41 = InlineKeyboardButton(text="Start learning", callback_data="lesson_1")
 button5 = InlineKeyboardButton(text="🏠 To the main menu", callback_data="main_menu")
 button6 = InlineKeyboardButton(text="Рассылка", callback_data="pars")
@@ -133,4 +133,7 @@ async def main(message: Message, bot: Bot):
                         await bot.send_message(user.split()[1], text = message.text)
                     except Exception as e:
                         print("[ERROR]", e)
+                state = []
+            elif len(state) > 1:
+                print("[ERROR]", state)
                 state = []

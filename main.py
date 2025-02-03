@@ -20,9 +20,9 @@ dp =  Dispatcher()
 dp.include_router(admin_rout)
 
 
-button1 = InlineKeyboardButton(text="📢 Free signals", url="https://t.me/@crypto_bulat")  # Укажи реальную ссылку
-button2 = InlineKeyboardButton(text="📞 My YouTube", url="https://www.youtube.com/@cryptobulat")  # Укажи свой канал
-button3 = InlineKeyboardButton(text="🔙 I trade here", url="https://t.me/crypto_bulat/524")  # Укажи ссылку
+button1 = InlineKeyboardButton(text="📢 Free signals", url="https://t.me/@pushfactory")  # Укажи реальную ссылку
+button2 = InlineKeyboardButton(text="📞 My YouTube", url="https://www.youtube.com/@CarlMinecool")  # Укажи свой канал
+button3 = InlineKeyboardButton(text="🔙 I trade here", url="https://t.me/pushfactory/947")  # Укажи ссылку
 button41 = InlineKeyboardButton(text="Start learning", callback_data="lesson_1")
 button42 = InlineKeyboardButton(text="The next lesson", callback_data="lesson_2")
 button43 = InlineKeyboardButton(text="The next lesson", callback_data="lesson_3")
